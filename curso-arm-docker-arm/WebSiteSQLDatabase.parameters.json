@@ -1,0 +1,51 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "hostingPlanName": {
+      "value": null
+    },
+    "skuName": {
+      "value": "S1"
+    },
+    "skuCapacity": {
+      "value": 1
+    },
+    "acr_registry_name": {
+      "value": null
+    },
+    "prefix": {
+      "value": null
+    },
+    "api_appservice_name": {
+      "value": null
+    },
+    "sqlserver_name": {
+      "value": null
+    },
+    "location": {
+      "value": "West Europe"
+    },
+    "administratorLogin": {
+      "value": null
+    },
+    "administratorLoginPassword": {
+      "value": null
+    },
+    "databaseName": {
+      "value": null
+    },
+    "collation": {
+      "value": "SQL_Latin1_General_CP1_CI_AS"
+    },
+    "edition": {
+      "value": "Basic"
+    },
+    "maxSizeBytes": {
+      "value": "1073741824"
+    },
+    "requestedServiceObjectiveName": {
+      "value": "Basic"
+    }
+  }
+}

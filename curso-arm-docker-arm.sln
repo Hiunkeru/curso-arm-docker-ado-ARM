@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "curso-arm-docker-arm", "curso-arm-docker-arm\curso-arm-docker-arm.deployproj", "{30988AF4-E20F-4416-B138-762D49F7C3C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30988AF4-E20F-4416-B138-762D49F7C3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30988AF4-E20F-4416-B138-762D49F7C3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30988AF4-E20F-4416-B138-762D49F7C3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30988AF4-E20F-4416-B138-762D49F7C3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04A8EF12-26D7-4AC1-AF44-BDD0AD9C9468}
+	EndGlobalSection
+EndGlobal
